@@ -1,0 +1,4 @@
+Building:
+PyQt5,
+pyserial,
+scipy,
