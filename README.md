@@ -2,9 +2,9 @@
 
 Building Project
 So far:
-Control app developed
+Control app developed,
 Need test
 
 Hardware:
-EMG: Bioplux
+EMG: Bioplux;
 FES:TremUna
